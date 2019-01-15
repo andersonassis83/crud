@@ -1,2 +1,2 @@
 # crud
-CRUD with Node.Js and Express - just fir studies finality
+CRUD with Node.Js and Express - just for studies finality
